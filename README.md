@@ -1,5 +1,3 @@
-Below is a structured GitHub proposal template for the QYield protocol. It follows the standard format recommended by the [Qubic Proposal Repository](https://github.com/qubic/proposal).
-------------------------------
 ## [PROPOSAL] QYield: Real-World Asset (RWA) Yield Engine for quUSD## 1. Introduction
 This proposal introduces QYield, a community-driven smart contract protocol on the Qubic network. QYield is specifically designed to provide sustainable, "Real Yield" for the native quUSD stablecoin by bridging on-chain liquidity with off-chain US Treasury Bonds.
 ## 2. Core Mechanism
@@ -25,13 +23,5 @@ Total generated yield from US Treasuries is first converted to $QUBIC and then d
 * Stablecoin Utility: Solidifies quUSD as the premier high-yield stable asset within the network.
 
 ------------------------------
-## How to Submit
-To submit this officially:
-
-   1. Fork the Qubic Proposals Repository.
-   2. Create a new file in SmartContracts/QYield.md.
-   3. Paste the content above and submit a Pull Request.
-
-If you'd like, I can help you draft a technical specification for the C++ struct needed for the Qubic smart contract functions or find the current 10-year Treasury yield to include as a benchmark.
 
 
